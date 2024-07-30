@@ -6,6 +6,8 @@
 
 🚀 Open to feedback and always striving to level up my coding skills. Reach out—I'd love to connect!
 
+📫 How to reach me khanmsaim89@gmail.com
+
 #CodeDreamCreate #FrontendDev #HTML #CSS #JavaScript
 
 <!---
