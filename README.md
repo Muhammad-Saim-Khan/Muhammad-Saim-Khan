@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" width="400"  src="https://static.vecteezy.com/system/resources/thumbnails/005/484/682/small_2x/person-working-on-computer-programming-or-coding-concept-modern-isometric-illustration-for-web-banner-website-element-brochures-or-book-cover-vector.jpg" alt="coding">
+<img align="right" width="400"  src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishahasham&label=Profile%20views&color=0e75b6&style=flat" alt="ishahasham" /> </p>
 
