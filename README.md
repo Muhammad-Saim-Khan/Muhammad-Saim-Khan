@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishahasham&label=Profile%20views&color=0e75b6&style=flat" alt="ishahasham" /> </p>
 
-- 🔭 I’m currently working on <b>Freelancer Projects</b>
+- 🔭 I’m currently working on <b>Rhombix Technologies</b>
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at <b>Github Repo</b>
-
-- 💬 Ask me about **React Js, Firebase, Html, Css, Javascript, Tailwind CSS, Bootstrap, Mui**
+- 👨‍💻 All of my projects are available at <a href="https://saim-khan-portfolio.vercel.app/" target="blank"><b>saim-khan-portfolio.vercel.app</b>
+<a/>
+- 💬 Ask me about <b>React Js, Firebase, Html, Css, Javascript, Tailwind CSS, Bootstrap, Mui</b>
 
 - 📫 How to reach me **khanmsaim89@gmail.com**
 
