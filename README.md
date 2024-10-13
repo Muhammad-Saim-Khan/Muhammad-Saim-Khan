@@ -14,8 +14,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at <a href="https://saim-khan-portfolio.vercel.app/" target="blank"><b>saim-khan-portfolio.vercel.app</b>
-<a/>
+- 👨‍💻 All of my projects are available at <a href="https://saim-khan-portfolio.vercel.app/" target="blank"><b>saim-khan-portfolio.vercel.app</b></a>
+
 - 💬 Ask me about <b>React Js, Firebase, Html, Css, Javascript, Tailwind CSS, Bootstrap, Mui</b>
 
 - 📫 How to reach me **khanmsaim89@gmail.com**
