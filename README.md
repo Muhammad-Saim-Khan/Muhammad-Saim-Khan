@@ -8,7 +8,6 @@
 
 <img align="right" width="400"  src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" alt="coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishahasham&label=Profile%20views&color=0e75b6&style=flat" alt="ishahasham" /> </p>
 
 - 🔭 I’m currently working on <b>Rhombix Technologies</b>
 
