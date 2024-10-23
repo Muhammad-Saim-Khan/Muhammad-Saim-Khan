@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on <b>Rhombix Technologies</b>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at <a href="https://saim-khan-portfolio.vercel.app/" target="_blank"><b>saim-khan-portfolio.vercel.app</b></a>
 
