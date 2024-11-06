@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Saim Khan</h1>
+<h1 align="center">
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=1000&lines=Hi+There+%F0%9F%91%8B;I'm Muhammad Saim Khan!" alt="Typing SVG" /></a>
+</h1>
 <h6 align="center">As a dedicated front-end developer, I am passionate about creating engaging and user-friendly web interfaces. Proficient in HTML, CSS, JavaScript, and React JS. I specialize in utilizing frameworks like Bootstrap, Tailwind CSS and MUI to build responsive and dynamic web applications. With a keen eye for design and a commitment to delivering high-quality code, I thrive in collaborative environments where I can contribute my technical expertise to achieve project goals effectively.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-saim-khan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-saim-khan" /> </p>
 
